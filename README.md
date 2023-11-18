@@ -1,5 +1,5 @@
 # Therapy Bot
-Add this [Bot](https://discord.com/oauth2/authorize?client_id=1175411141799850004&permissions=3283503545408&scope=bot) on your Discord Server.
+Add this on your Discord Server: [Invite Link](https://discord.com/oauth2/authorize?client_id=1175411141799850004&permissions=3283503545408&scope=bot)
 
 Hello! Welcome to TherapeuticBot, a Discord bot designed to provide random quotes and assistance whenever you need it. This bot is available 24/7, and you can interact with it using various commands.
 
