@@ -17,3 +17,15 @@ Hello! Welcome to TherapeuticBot, a Discord bot designed to provide random quote
 
 - **`>`**: List all of the saved quotes.
 
+# Screenshots
+![image](https://github.com/rizzabh/TherapyBot/assets/133371863/066cfef9-972b-4c6d-aa63-81121f82d440)
+
+![image](https://github.com/rizzabh/TherapyBot/assets/133371863/f4b77f67-0631-4025-a1aa-b36939b3493b)
+
+![image](https://github.com/rizzabh/TherapyBot/assets/133371863/a0e605e0-84c1-4d6b-8fcf-23075ab0ffe2)
+
+
+
+
+
+
