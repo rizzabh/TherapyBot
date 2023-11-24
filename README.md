@@ -25,6 +25,10 @@ Hello! Welcome to TherapeuticBot, a Discord bot designed to provide random quote
 
 ![image](https://github.com/rizzabh/TherapyBot/assets/133371863/a0e605e0-84c1-4d6b-8fcf-23075ab0ffe2)
 
+![image](https://github.com/rizzabh/TherapyBot/assets/133371863/905ed1f9-cf9d-47fb-a6a2-14f8a957c07b)
+
+![image](https://github.com/rizzabh/TherapyBot/assets/133371863/7dca0fcf-ddde-4512-9f77-923f0aa5ab58)
+
 
 
 
